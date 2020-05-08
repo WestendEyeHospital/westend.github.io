@@ -1,18 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- saved from url=(0073)https://web.archive.org/web/20160112023247/http://westendeyehospital.com/ -->
-<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><script async="" src="./index_files/analytics.js.download"></script><script src="./index_files/analytics.js(1).download" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app103.us.archive.org';v.server_ms=537;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="./index_files/ait-client-rewrite.js.download" charset="utf-8"></script>
-<script type="text/javascript">
-WB_wombat_Init("https://web.archive.org/web/", "20160112023247", "westendeyehospital.com");
-</script>
-<script type="text/javascript" src="./index_files/wbhack.js.download" charset="utf-8"></script>
-<script type="text/javascript">
-__wbhack.init('https://web.archive.org/web');
-</script>
-<script type="text/javascript" src="./index_files/playback.bundle.js.download" charset="utf-8"></script>
-<link rel="stylesheet" type="text/css" href="./index_files/banner-styles.css">
-<link rel="stylesheet" type="text/css" href="./index_files/iconochive.css">
-<!-- End Wayback Rewrite JS Include -->
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
 
 <title>Westend Eye Hospital - Quality eye care in Cochin</title>
 
